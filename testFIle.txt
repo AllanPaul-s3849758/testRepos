@@ -1,8 +1,7 @@
 ls
 ls
 
-
-
+sdasdadsadadsaadasdad
 
 cd
 ?
